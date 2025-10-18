@@ -9,7 +9,6 @@ ls.add_snippets("mdx", {
   s("code", fmt([[
 ```code :language {} :eval {} 
 {} 
-
 ```
   ]], {
       i(1, "python"),
@@ -30,4 +29,13 @@ ls.add_snippets("mdx", {
       i(3),
       i(0)
     })),
+
+--- Typst 
+  s("typst", fmt([[
+```typst 
+{}
+```
+  ]]), {
+      i(0)
+    })
 })
