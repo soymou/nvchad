@@ -29,6 +29,6 @@ ls.add_snippets("mdx", {
       i(1),
       i(2, "tip"),
       i(3),
-      i(4)
+      i(0)
     })),
 })
