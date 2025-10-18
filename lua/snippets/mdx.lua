@@ -14,8 +14,7 @@ ls.add_snippets("mdx", {
   ]], {
       i(1, "python"),
       i(2, "false"),
-      i(3),
-      i(0)
+      i(0),
     })),
 
 --- Aside 
