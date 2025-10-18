@@ -11,7 +11,7 @@ ls.config.set_config({
 })
 
 -- Load filetype-specific snippets
-require("snippets.mxd")
+require("snippets.mdx")
 
 -- You can add more snippet files here as you create them
 -- require("snippets.typescript")
